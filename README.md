@@ -1,4 +1,3 @@
-```markdown
 # Hello World! 👋
 
 I'm a developer on a mission to build solutions that transform digital experiences. **Massive innovations are brewing** - stay tuned for groundbreaking releases coming very soon!
@@ -20,4 +19,3 @@ I'm a developer on a mission to build solutions that transform digital experienc
 
 💡 *"The best way to predict the future is to create it."* - Alan Kay  
 🔗 **Connect**: [Portfolio](https://yourportfolio.link) | [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile)
-```
